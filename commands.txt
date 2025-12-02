@@ -1,3 +1,6 @@
 echo "Hello world"
-dir
+#dir
 whoami
+#upload all
+#upload monfichier.txt
+#upload images/photo.png
