@@ -2,5 +2,5 @@
 #dir
 #whoami
 #upload all
-#upload TestRust.txt
+upload TestRust.txt
 #upload images/photo.png
