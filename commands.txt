@@ -1,6 +1,6 @@
 #echo "Hello world"
 #dir
 #whoami
-#upload all
-upload TestRust.txt
+upload all
+#upload TestRust.txt
 #upload images/photo.png
