@@ -1,6 +1,6 @@
 #echo "Hello world"
 #dir
-#whoami
+whoami
 #upload all
 #upload Private.txt
 #upload images/photo.png
